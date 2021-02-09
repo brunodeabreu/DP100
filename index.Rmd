@@ -1,9 +1,44 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Estudo DP-100 Design and Implementing a Data Science Solution in Azure"
+author: "Bruno de A. Machado"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Certification
+
+O estudo para certificação é composto de quatro áreas : 
+
+* Configuração e entender o Azure Machine Learning Workspace
+* Saber criar experimentos e treinar modelos
+* Otimização e administração de modelos
+* Deploy e utilização de modelos
+
+
+Ao realizar a prova e ser aprovado receberá o tĩtulo de _Microsoft Certified: Azure Data Scientist Associate_. Como pode ser visto na figura abaixo enão tem um pre-req.
+
+
+```{r fig2, echo=FALSE, fig.cap="Certification path", fig.margin=TRUE}
+knitr::include_graphics("docs/img/certification_path.png")
+```
+
+
+Para iniciar é preciso estudar e ter diversos skills destacados : 
+
+```{r fig3, echo=FALSE, fig.cap="Por onde começar", fig.margin=TRUE}
+knitr::include_graphics("docs/img/path_cert.png")
+```
+
+
+Sobre o teste cada uma dessas áreas tem uma concentração de pesos no exame:
+
+```{r fig1, echo=FALSE, fig.cap="Study areas", fig.margin=TRUE}
+knitr::include_graphics("docs/img/study_areas.png")
+```
+
+
+Neste documento anoto detalhes sobre meu estudo.
+
+
+
 
